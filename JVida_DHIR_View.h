@@ -15,6 +15,10 @@ void mostrarCoordInvalida();
 void mostrarDespedida();
 void mostrarOpcaoInvalida();
 void mostrarEstadoMortos(int estado);
-
+void mostrarSalvoOk();
+void mostrarCarregadoOk();
+void mostrarFimGeracoes();
+void mostrarErroArquivo();
+void mostrarContagem(int vivas, int mortas);
 
 #endif
