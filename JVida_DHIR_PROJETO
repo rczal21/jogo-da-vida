@@ -1,6 +1,9 @@
 //JVida_DHIR_PROJETO.cpp - Projeto Jogo da Vida
 //13/10/2026
-/*Daniel Luis de Amorim Mariano Santos, Henrique Campos Rodrigues, Isabella de Souza Fleury, Rafaella Castro Zandona Alves de Lima*/
+/*Daniel Luis de Amorim Mariano Santos
+Henrique Campos Rodrigues
+Isabella de Souza Fleury
+Rafaella Castro Zandona Alves de Lima */
 
 #include "JVida_DHIR_Model.cpp"
 #include "JVida_DHIR_Controller.cpp"
